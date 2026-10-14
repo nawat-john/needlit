@@ -1,0 +1,6 @@
+{
+  "name": "Needlit.Editor",
+  "references": ["Needlit.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

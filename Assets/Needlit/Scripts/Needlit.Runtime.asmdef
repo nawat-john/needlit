@@ -1,0 +1,5 @@
+{
+  "name": "Needlit.Runtime",
+  "references": ["Unity.InputSystem"],
+  "autoReferenced": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Needlit.PlayModeTests",
+  "references": ["Needlit.Runtime", "Unity.InputSystem"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": [],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"]
+}

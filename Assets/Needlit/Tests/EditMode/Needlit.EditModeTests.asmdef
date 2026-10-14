@@ -1,0 +1,8 @@
+{
+  "name": "Needlit.EditModeTests",
+  "references": ["Needlit.Runtime"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "overrideReferences": true,
+  "precompiledReferences": ["nunit.framework.dll"]
+}
